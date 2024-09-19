@@ -38,3 +38,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" alt="VISUALBASIC" width="40" height="40"/>
   <img align="right" alt="Bella-Gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVpbmhkandnN3g3eDdyN25oYmhiMGhqeWtqYjU2MXFkZmI5ajcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7eWKCa88vboXZKHahm/giphy.gif" width="150">
 </div>
+<br><br><br>
+ "A tecnologia move o mundo, mas é a curiosidade que nos leva adiante." – Steve Jobs 
