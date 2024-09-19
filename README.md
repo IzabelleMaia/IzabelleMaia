@@ -13,7 +13,7 @@
 
 - 💼 Atualmente trabalho com Front-End
 - 🌱 Estudando para ser Desenvolvedora Full Stack
-- ⚡ Um medo: Faltar um ; no código
+- ⚡ Um medo: Faltar um ; no código kkk
 - 🤟🏼 Amo rock, skate e guitarra!
 - 🍄 Viciada em coisinhas de cogumelo
 - 🪐 Amante do espaço
