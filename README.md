@@ -12,7 +12,7 @@
 <br>
 
 - 💼 Atualmente trabalho com Front-End
-- 🌱 Estudando para ser Desenvolvedora Full Stack
+- 🌱 Estudando para ser Dev Full Stack Sênior
 - ⚡ Um medo: Faltar um ; no código kkk
 - 🤟🏼 Amo rock, reggae skate e guitarra!
 - 🍄 Viciada em coisinhas de cogumelo
