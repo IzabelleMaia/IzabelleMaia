@@ -1,4 +1,4 @@
-## Olá! Eu sou a IzabelleMaia ✨
+## Olá! Eu sou a Izabelle Maia ✨
 
 <div>
   <a href="https://www.instagram.com/izabellefancini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,4 +39,4 @@
   <img align="right" alt="Bella-Gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVpbmhkandnN3g3eDdyN25oYmhiMGhqeWtqYjU2MXFkZmI5ajcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7eWKCa88vboXZKHahm/giphy.gif" width="150">
 </div>
 <br><br><br>
- "A tecnologia move o mundo, mas é a curiosidade que nos leva adiante." – Steve Jobs 
+ "A tecnologia move o mundo, mas é a curiosidade que nos leva adiante." –  Steve Jobs 
