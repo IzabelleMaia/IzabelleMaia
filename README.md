@@ -1,6 +1,12 @@
-## Olá! Eu sou a Izabelle Maia ✨
+<h2 align="center"><strong>Olá! Eu sou a Izabelle Maia ✨</strong></h2>
 
-<div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
   <a href="https://www.instagram.com/izabellefancini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -40,3 +46,11 @@
 </div>
 <br><br><br>
  "A tecnologia move o mundo, mas é a curiosidade que nos leva adiante." –  Steve Jobs 
+
+ <hr>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IzabelleMaia/IzabelleMaia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IzabelleMaia/IzabelleMaia/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IzabelleMaia/IzabelleMaia/output/github-contribution-grid-snake.svg">
+</picture>
